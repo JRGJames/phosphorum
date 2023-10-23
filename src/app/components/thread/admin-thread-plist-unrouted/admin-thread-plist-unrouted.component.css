@@ -1,0 +1,12 @@
+.tabla {
+  margin-top: 20px;
+}
+
+.resultado {
+  text-align: center;
+}
+
+.tabla th {
+  cursor: pointer;
+}
+
